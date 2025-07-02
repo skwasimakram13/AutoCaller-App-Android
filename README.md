@@ -83,10 +83,29 @@ Only digits are extracted automatically, so formatting like `+91-98765 43210` is
 
 ---
 
-## 👨‍💻 Developed By
+## Badges
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Demoody Official**  
-This app is developed as part of a business utility suite for automating communication tasks.
+---
+
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+
+- 👨‍💻 All of my projects are available at [https://skwasimakram.com](https://skwasimakram.com)
+
+- 📝 I regularly write articles on [https://blog.skwasimakram.com](https://blog.skwasimakram.com)
+
+- 📫 How to reach me **hello@skwasimakram.com**
+
+- 🧑‍💻 Google Developer Profile [https://g.dev/skwasimakram](https://g.dev/skwasimakram)
+
+- 📲 LinkedIn [https://www.linkedin.com/in/sk-wasim-akram](https://www.linkedin.com/in/sk-wasim-akram)
+
+---
+
+## 🤝 Contribution
+
+Pull requests, feature suggestions, and bug reports are welcome.
 
 ---
 
