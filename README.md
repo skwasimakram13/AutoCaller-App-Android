@@ -1,6 +1,6 @@
 # 📞 AutoCaller App (Android)
 
-**AutoCaller** is an Android app designed for businesses like CSPs, shop owners, or field agents who need to call a large number of customers automatically using pre-recorded voice messages. This app allows you to initiate calls from your own device and plays a selected voice message when the call is picked up by the recipient.
+**AutoCaller** is an Android app designed for businesses like CSPs, Reatil shop owners, or field agents who need to call a large number of customers automatically using pre-recorded voice messages. This app allows you to initiate calls from your own device and plays a selected voice message when the call is picked up by the recipient.
 
 ---
 
